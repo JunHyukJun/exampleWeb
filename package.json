@@ -1,0 +1,23 @@
+{
+  "name": "exampleweb",
+  "version": "1.0.0",
+  "description": "Test Web\r test",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunHyukJun/exampleWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunHyukJun/exampleWeb/issues"
+  },
+  "homepage": "https://github.com/JunHyukJun/exampleWeb#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
